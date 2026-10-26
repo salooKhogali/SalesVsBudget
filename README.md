@@ -16,7 +16,7 @@ The data is a Microsoft **sample dataset**, used here for learning and portfolio
 ![Customers](docs/Customers.png)
 
 **Product Details**
-![Product Details](docs/Product_Details.png)
+![Product Details](docs/Product Details.png)
 
 ---
 
