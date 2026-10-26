@@ -13,10 +13,10 @@ The data is a Microsoft **sample dataset**, used here for learning and portfolio
 ![Sales Overview](docs/Sales-Overview.png)
 
 **Customers**
-![Customers](docs/customers.png)
+![Customers](docs/Customers.png)
 
 **Product Details**
-![Product Details](docs/product-details.png)
+![Product Details](docs/Product Details.png)
 
 ---
 
