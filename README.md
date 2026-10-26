@@ -10,7 +10,7 @@ The data is a Microsoft **sample dataset**, used here for learning and portfolio
 ## 🖼️ Report Preview
 
 **Sales Overview**
-![Sales Overview](docs/sales-overview.png)
+![Sales Overview](docs/Sales-Overview.png)
 
 **Customers**
 ![Customers](docs/customers.png)
